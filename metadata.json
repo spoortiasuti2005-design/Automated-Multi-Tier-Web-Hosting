@@ -1,0 +1,8 @@
+{
+  "name": "Automated Multi-Tier Web Application Hosting System",
+  "description": "Interactive cloud hosting simulation dashboard demonstrating multi-tier architecture, dynamic auto-scaling, load balancing, database isolation, live monitoring, and deployment automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

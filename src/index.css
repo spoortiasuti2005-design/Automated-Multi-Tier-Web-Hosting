@@ -1,0 +1,26 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+  --color-navy-950: #061020;
+  --color-navy-900: #0a192f;
+  --color-navy-800: #112240;
+}
+
+@layer base {
+  body {
+    font-family: var(--font-sans);
+    font-variant-numeric: tabular-nums;
+  }
+}
+
+@layer utilities {
+  .surface-card {
+    @apply bg-white dark:bg-[#0b192e] border border-slate-200 dark:border-slate-800 rounded-xl transition-colors duration-150;
+  }
+  .tabular-metrics {
+    font-variant-numeric: tabular-nums;
+  }
+}

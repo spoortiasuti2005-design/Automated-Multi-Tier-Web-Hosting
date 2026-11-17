@@ -6,7 +6,7 @@ A real-time cloud hosting management dashboard designed to demonstrate multi-tie
 
 **Live Website:** https://automated-multi-tier-web-hosting.onrender.com
 
-**GitHub Repository:** https://github.com/Padmavati2611/Automated-Multi-Tier-Web-Hosting
+**GitHub Repository:** https://github.com/spoortiasuti2005-design/Automated-Multi-Tier-Web-Hosting
 
 ## 📌 Project Overview
 

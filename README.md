@@ -61,7 +61,7 @@ The application follows a multi-tier architecture:
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/Padmavati2611/Automated-Multi-Tier-Web-Hosting.git
+git clone https://github.com/spoortiasuti2005-design/Automated-Multi-Tier-Web-Hosting.git
 ```
 
 ### Step 2: Open the Project

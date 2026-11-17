@@ -124,10 +124,10 @@ For a separate frontend and backend deployment, configure the frontend API base 
 
 ## 👩‍💻 Developer
 
-**Padmavati B**
+**Spoorti Asuti**
 
 Third-Year Engineering Student  
-Artificial Intelligence and Machine Learning
+Computer science and Engineering
 
 GitHub: https://github.com/spoortiasuti2005-design
 

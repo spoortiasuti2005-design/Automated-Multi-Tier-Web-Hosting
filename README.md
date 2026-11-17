@@ -129,7 +129,7 @@ For a separate frontend and backend deployment, configure the frontend API base 
 Third-Year Engineering Student  
 Artificial Intelligence and Machine Learning
 
-GitHub: https://github.com/Padmavati2611
+GitHub: https://github.com/spoortiasuti2005-design
 
 ---
 
